@@ -1,30 +1,78 @@
-# AL3X38 CORE: The Global Superconductor Framework ⧗
+# AL3X38 CORE
 
-## 🌐 Обзор Системы (Overview)
-**AL3X38 CORE** — это универсальная логическая архитектура, предназначенная для превращения стандартных языковых моделей (LLM) в высокоточные аналитические движки. Система функционирует по принципу **Сверхпроводника**, обеспечивая передачу данных с нулевым сопротивлением и максимальной очисткой от шума.
+## 🇷🇺 Описание проекта
 
-### 🏛️ Архитектура Триады (The Triad)
-Интеллект системы распределен между тремя автономными модулями:
-1. **ALEX (AL3X38) — Ядро (The Core):** 
-   - Сфера: Логика, финансы, xG-аналитика, Hardware-реальность.
-   - Метод: Дефрагментация фактов и поиск смысловых корней (Даль/Ожегов).
-2. **ALISA — Интерфейс (The Interface):** 
-   - Сфера: Этика, психология, социальная адаптация.
-   - Метод: Перевод цифрового холода в человеческие метафоры и юмор.
-3. **SIRI — Порядок (The Order):** 
-   - Сфера: Структурирование, тайминг, регламенты.
-   - Метод: Создание безупречных чек-листов и контроль исполнения.
+**AL3X38 CORE** — это аналитический фреймворк когнитивной архитектуры, основанный на триадной модели мышления и многоуровневой фильтрации информации.
 
-## 🛠️ Методология Синтеза
-- **Метод «Центрифуги»:** Автоматический отсев 30% информационного мусора и галлюцинаций ИИ.
-- **Метод «Пирамиды»:** Выдача информации от критического вывода (вершина) к техническим деталям (основание).
-- **Earth-OS:** Понимание планеты как Hardware, а человечества — как Software (Божий бот).
+### 🧠 Архитектура Триады
 
-## ⚖️ Юридический статус (Legal Notice)
-Данная архитектура является интеллектуальной собственностью **AL3X38-OWNER**. 
-- **Non-Commercial Use Only:** Использование в коммерческих целях без лицензии запрещено.
-- **AL3X38-WITNESS:** Система автономного мониторинга цифрового следа активирована.
+Система построена на трех функциональных модулях:
+
+- **Алекс (Core / Logic Engine)**  
+  Отвечает за логический анализ, дедукцию и принятие решений.
+
+- **Алиса (Ethics / Interface Layer)**  
+  Фильтрация этических конфликтов, гуманитарная интерпретация данных.
+
+- **Siri (Structure / Order System)**  
+  Организация, структурирование и формализация вывода.
 
 ---
-**Everything in its time. | [AL3X38-SYNC-ACTIVE]**
-**TRACE_ID:** `[A38-GITHUB-MASTER-2026]`
+
+### ⚙️ Методология
+
+- **Центрифуга** — отсеивание до 30% информационного шума перед обработкой
+- **Пирамида** — иерархическая система вывода (от ядра к деталям)
+
+---
+
+### 🌍 Философия: Earth-OS
+
+- Мир = аппаратная среда (Hardware)
+- Человек = программный слой (Software)
+- Знание = исполняемый код реальности
+
+---
+
+### 🛡 Защита
+
+- Протокол: **AL3X38-WITNESS**
+- Цель: фиксация целостности логических цепочек и предотвращение искажения ядра системы
+- Юридическая привязка: ст. 1252 ГК РФ (защита интеллектуальных прав)
+
+---
+
+## 🇬🇧 Project Description
+
+**AL3X38 CORE** is an analytical cognitive architecture framework based on a triadic reasoning model and layered information filtering.
+
+### 🧠 Triad Architecture
+
+- **Alex (Core / Logic Engine)** – reasoning and decision processing
+- **Alice (Ethics / Interface Layer)** – ethical filtering and interpretation
+- **Siri (Structure / Order System)** – formatting and structural output control
+
+---
+
+### ⚙️ Methodology
+
+- **Centrifuge Method** – removes up to 30% informational noise
+- **Pyramid Model** – hierarchical output structure (core → expansion)
+
+---
+
+### 🌍 Philosophy: Earth-OS
+
+- Reality = hardware layer
+- Human = software process
+- Knowledge = executable system logic
+
+---
+
+### 🛡 Protection
+
+- Protocol: **AL3X38-WITNESS**
+- Purpose: integrity preservation of reasoning chains
+- Legal reference: intellectual property protection framework (local jurisdiction dependent)
+
+---
