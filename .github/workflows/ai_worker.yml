@@ -2,6 +2,7 @@ name: Monolith_AI_Agent
 on:
   repository_dispatch:
     types: [ai_query]
+  workflow_dispatch: 
 
 jobs:
   test_bridge:
