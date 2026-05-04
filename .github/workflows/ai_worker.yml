@@ -1,7 +1,7 @@
 name: Monolith_Bridge_Test
 on:
   repository_dispatch:
-    types: [ai_query] # Это кодовое слово
+    types: [ping] # Это кодовое слово
     workflow_dispatch:
 jobs:
   ping_back:
