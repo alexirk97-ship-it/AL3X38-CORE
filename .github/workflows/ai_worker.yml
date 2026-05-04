@@ -1,22 +1,22 @@
-name: Monolith_AI_Agent
+name: Monolith_Bridge_Test
 on:
   repository_dispatch:
-    types: [ai_query]
-  workflow_dispatch: 
+    types: [ai_query] # Это кодовое слово
 
 jobs:
-  test_bridge:
+  ping_back:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Даем права на запись
+      contents: write
     steps:
       - uses: actions/checkout@v3
-      - name: Create Test Answer
-        run: echo "Агент на связи. Система детерминирована." > answer.txt
+      - name: Write Log
+        run: |
+          echo "Архитектор, Гитхаб на связи! Время: $(date)" > answer.txt
       - name: Push to Repo
         run: |
           git config --global user.email "sputnik@monolith.zero"
           git config --global user.name "Sputnik Agent"
           git add answer.txt
-          git commit -m "Update answer"
+          git commit -m "Signal received"
           git push
