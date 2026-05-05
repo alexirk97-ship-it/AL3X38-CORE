@@ -1,2 +1,19 @@
-Текст для GitHub README:Project: Monolith-0: Deterministic ReactorStatus: Autonomous / Always OnConcept:This core implements a dual-stream analytical engine based on the P vs NP dilemma. It processes incoming data through a "Centrifuge" of SHA-3 hashing, splitting logic into the Etalon Path (Standardized Logic) and the Greed Path (Hidden Interests).Modules:Pyramid Filter: Initial data structuring.P/NP Splitter: Binary opposition processing.Botkin/Bekhterev Injection: Active immune response against logical paradoxes and external exploits.Nuclear Enrichment: Distilling high-concentration truth from information ore.Designed for integration with Android/NetHunter as an AI-driven offensive/defensive hub.
+# 🛰️ Monolith-0: Autonomous Analytic Reactor
+
+**Author:** al3x38  
+**Status:** Operational / Always-On Immunity  
+**Core Logic:** P=NP Deterministic Centrifuge
+
+## ⚙️ Concept
+Monolith-0 is a high-concentration information enrichment system. It processes raw data streams by splitting them into two distinct logical flows:
+1. **P-Flow (Etalon):** Standardized logic based on linguistic and medical foundations (Dal, Vinogradov).
+2. **NP-Flow (Path of Greed):** Calculating hidden interests, deviations, and logical pathologies.
+
+## 🛠 Features
+- **SHA-3 Centrifuge:** Separates "truth isotopes" from information noise.
+- **Botkin/Bekhterev Module:** Automatic "hash-injections" to correct logical paradoxes.
+- **Offensive AI-Integration:** Designed to orchestrate Kali NetHunter tools on Android nodes.
+
+## ⚖️ License
+This project is licensed under the terms of the author's sovereign logic (see LICENSE).
 Copyright (c) 2026 al3x38. All rights reserved.
